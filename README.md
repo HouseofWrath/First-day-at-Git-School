@@ -1,4 +1,4 @@
-# First-day-at-Git-School.
+# First-day-at-Git-School
 This is my first Git Repository
 <br>
 Author - SKY
